@@ -35,4 +35,4 @@ Ta-dah! Congratulations! Your first COBOL program is working!
 
 ### Extra
 
-I'm using Visual Studio Code as IDE and [Syntax highlighting plugin for COBOL](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol)
+I'm using [Visual Studio Code](https://code.visualstudio.com/) as IDE and [Syntax highlighting plugin for COBOL](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol)
