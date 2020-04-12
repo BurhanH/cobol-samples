@@ -7,7 +7,7 @@
 
 The idea is to learn COBOL programming language. (Just for fun!)
 
-![alt text](https://github.com/BurhanH/cobol-samples/raw/master/HelloWorldCOBOL.png "COBOL Hello World program") <br>
+![alt text](https://github.com/BurhanH/cobol-samples/raw/master/HelloWorldCOBOL-1.png "COBOL Hello World program") <br>
 
 ### How to 
 
