@@ -1,9 +1,10 @@
 os: linux
-dist: xenial
+dist: trusty
+sudo: required
 language: cobol
 
-before_install:
-  - sudo apt install open-cobol
+install:
+  - - sudo apt-get install -y -qq open-cobol --fix-missing
 
 script:
   - cobc -x code/HelloWorld.cbl
