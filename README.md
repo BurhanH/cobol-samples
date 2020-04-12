@@ -21,7 +21,7 @@ sudo apt install open-cobol
 ### How to write your first program
 
 Use any text editor to create a file with extention .cob (or .cbl).
-Add a code ([HelloWorld.cbl](https://github.com/BurhanH/cobol-samples/blob/master/code/HelloWorld.cbl)). </br>
+Add a code (e.g. [HelloWorld.cbl](https://github.com/BurhanH/cobol-samples/blob/master/code/HelloWorld.cbl)). </br>
 Then run compiler to get executable file:
 ```
 cobc -x YourSuperPupperProgram.cbl
