@@ -5,8 +5,28 @@
 
 ## Main purpose
 
-The idea is to learn COBOL programming language. Just for fun!
+The idea is to learn COBOL programming language. (Just for fun!)
 
-### How to
+### How to 
 
-Under construction
+Before start make sure that you have COBOL compiler in your Operation System. In next section I will show an example for Ubuntu Linux.
+
+### How to istall compiler Ubuntu linux:
+```
+sudo apt install open-cobol
+```
+
+### How to write your first program
+
+Use any text editor to create a file with extention .cob (or .cbl).
+Add a code ([HelloWorld.cbl](https://github.com/BurhanH/cobol-samples/blob/master/code/HelloWorld.cbl)).
+Then run compiler to get executable file:
+```
+cobc -x YourSuperPupperProgram.cbl
+```
+and last one, execute a file:
+```
+./YourSuperPupperProgram
+```
+
+Ta-dah! Congratulations! Your first COBOL program is working!
