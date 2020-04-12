@@ -7,11 +7,13 @@
 
 The idea is to learn COBOL programming language. (Just for fun!)
 
+![alt text](https://github.com/BurhanH/cobol-samples/raw/master/HelloWorldCOBOL.png "COBOL Hello World program") <br>
+
 ### How to 
 
 Before start make sure that you have COBOL compiler in your Operation System. In next section I will show an example for Ubuntu Linux.
 
-### How to istall compiler Ubuntu linux:
+### How to install compiler Ubuntu Linux:
 ```
 sudo apt install open-cobol
 ```
@@ -30,3 +32,7 @@ and last one, execute a file:
 ```
 
 Ta-dah! Congratulations! Your first COBOL program is working!
+
+### Extra
+
+I'm using Visual Studio Code as IDE and [Syntax highlighting plugin for COBOL](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol)
