@@ -9,7 +9,7 @@ The idea is to learn COBOL programming language. (Just for fun!)
 
 ![alt text](https://github.com/BurhanH/cobol-samples/raw/master/HelloWorldCOBOL-1.png "COBOL Hello World program") <br>
 
-### How to 
+### How to ...
 
 Before start make sure that you have COBOL compiler in your Operation System. In next section I will show an example for Ubuntu Linux.
 
